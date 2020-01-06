@@ -1,0 +1,12 @@
+/Users/shayan/Desktop/Rust_Learning/Web_Server_Euclid/iron-gcd/target/debug/deps/serde_json-0af36fd295a947b8.rmeta: /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/lib.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/builder.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/de.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/error.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/ser.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/value.rs
+
+/Users/shayan/Desktop/Rust_Learning/Web_Server_Euclid/iron-gcd/target/debug/deps/libserde_json-0af36fd295a947b8.rlib: /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/lib.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/builder.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/de.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/error.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/ser.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/value.rs
+
+/Users/shayan/Desktop/Rust_Learning/Web_Server_Euclid/iron-gcd/target/debug/deps/serde_json-0af36fd295a947b8.d: /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/lib.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/builder.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/de.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/error.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/ser.rs /Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/value.rs
+
+/Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/lib.rs:
+/Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/builder.rs:
+/Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/de.rs:
+/Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/error.rs:
+/Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/ser.rs:
+/Users/shayan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.7.4/src/value.rs:
