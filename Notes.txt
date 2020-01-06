@@ -1,2 +1,0 @@
-// Notes Creating Rust package with metadata arranged 
-/* Command line function*/ cargo new --bin hello
